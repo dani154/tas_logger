@@ -1,0 +1,9 @@
+{
+  "name": "tas_logger",
+  "version": "0.0.1",
+  "title": "Tas Logger",
+  "author": "dani154",
+  "homepage": "",
+  "description": "Logs TAS related stuff",
+  "factorio_version": "0.15"
+}
