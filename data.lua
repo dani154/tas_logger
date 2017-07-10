@@ -8,10 +8,5 @@ data:extend({
 	height = 64,
 	scale = 1
 	
-  },
-  {
-    type = "custom-input",
-    key_sequence = "CONTROL + P",
-    name = "tas-logger-print",
   }
 })
